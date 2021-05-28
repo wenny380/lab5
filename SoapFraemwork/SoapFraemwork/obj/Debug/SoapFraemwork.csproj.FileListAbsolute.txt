@@ -1,0 +1,10 @@
+C:\Users\DNS\Downloads\PiAPS-labs-main\PiAPS-labs-main\SOAP\SoapFraemwork\SoapFraemwork\bin\Debug\SoapFraemwork.exe.config
+C:\Users\DNS\Downloads\PiAPS-labs-main\PiAPS-labs-main\SOAP\SoapFraemwork\SoapFraemwork\bin\Debug\SoapFraemwork.exe
+C:\Users\DNS\Downloads\PiAPS-labs-main\PiAPS-labs-main\SOAP\SoapFraemwork\SoapFraemwork\bin\Debug\SoapFraemwork.pdb
+C:\Users\DNS\Downloads\PiAPS-labs-main\PiAPS-labs-main\SOAP\SoapFraemwork\SoapFraemwork\obj\Debug\SoapFraemwork.csprojAssemblyReference.cache
+C:\Users\DNS\Downloads\PiAPS-labs-main\PiAPS-labs-main\SOAP\SoapFraemwork\SoapFraemwork\obj\Debug\SoapFraemwork.Form1.resources
+C:\Users\DNS\Downloads\PiAPS-labs-main\PiAPS-labs-main\SOAP\SoapFraemwork\SoapFraemwork\obj\Debug\SoapFraemwork.Properties.Resources.resources
+C:\Users\DNS\Downloads\PiAPS-labs-main\PiAPS-labs-main\SOAP\SoapFraemwork\SoapFraemwork\obj\Debug\SoapFraemwork.csproj.GenerateResource.cache
+C:\Users\DNS\Downloads\PiAPS-labs-main\PiAPS-labs-main\SOAP\SoapFraemwork\SoapFraemwork\obj\Debug\SoapFraemwork.csproj.CoreCompileInputs.cache
+C:\Users\DNS\Downloads\PiAPS-labs-main\PiAPS-labs-main\SOAP\SoapFraemwork\SoapFraemwork\obj\Debug\SoapFraemwork.exe
+C:\Users\DNS\Downloads\PiAPS-labs-main\PiAPS-labs-main\SOAP\SoapFraemwork\SoapFraemwork\obj\Debug\SoapFraemwork.pdb
